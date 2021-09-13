@@ -1,8 +1,8 @@
 ## Hey! I am Afonso Henrique 
 
-⇁ Student systems for internet  </br>
-⇁ I currently develop scientific research on web accessibility </br>
-⇁ Studying php
+Δ Student systems for internet  </br>
+Δ I currently develop scientific research on web accessibility </br>
+Δ Studying php
 
 
 
@@ -15,4 +15,3 @@
 
 
   
--->
