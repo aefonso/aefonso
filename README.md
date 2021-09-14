@@ -1,7 +1,7 @@
 ## Hey! I am Afonso Henrique 
 
-Δ Student systems for internet</br>
-Δ I currently develop scientific research on web accessibility</br>
+Δ Studying Internet Systems</br>
+Δ I am currently doing scientific research on web accessibility</br>
 Δ Studying php </br>
 Δ In search of the unknown
 
