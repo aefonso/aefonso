@@ -2,7 +2,6 @@
 
 Δ Studying Internet Systems</br>
 Δ I'm currently doing scientific research on web accessibility</br>
-Δ Studying php </br>
 Δ In search of the unknown
 
 
