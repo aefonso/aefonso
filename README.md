@@ -1,7 +1,7 @@
-## Hey! I am Afonso Henrique 
+## Hey! I'm Afonso Henrique 
 
 Δ Studying Internet Systems</br>
-Δ I am currently doing scientific research on web accessibility</br>
+Δ I'm currently doing scientific research on web accessibility</br>
 Δ Studying php </br>
 Δ In search of the unknown
 
